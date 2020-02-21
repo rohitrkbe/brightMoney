@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Category",
+      "shopping": 500,
+      "Food & Dining": 20, 
+      "utility": 40, 
+      "education":100, 
+      "Personal Care":5, 
+      "Travel":0,
+      "date": "01-02-2020"
+    },
+    {
+      "name": "Category",
+      "shopping": 0,
+      "Food & Dining": 20, 
+      "utility": 40, 
+      "education":0, 
+      "Personal Care":0, 
+      "Travel":220,
+      "date": "5-02-2020"
+    },
+    {
+      "name": "Category",
+      "shopping": 90,
+      "Food & Dining": 0, 
+      "utility": 0, 
+      "education":0, 
+      "Personal Care": 0, 
+      "Travel":50,
+      "date": "10-02-2020"
+    },
+    {
+      "name": "Category",
+      "utilities": 400,
+      "shopping": 0,
+      "Food & Dining": 20, 
+      "utility": 40, 
+      "education":0, 
+      "Personal Care":0, 
+      "Travel":0,
+      "date": "12-02-2020"
+    },
+    {
+      "name": "Category",
+      "shopping": 0,
+      "Food & Dining": 20, 
+      "utility": 1400, 
+      "education":100, 
+      "Personal Care":5, 
+      "Travel":0,
+      "date": "18-02-2020"
+    },
+    {
+      "name": "Category",
+      "shopping": 50,
+      "Food & Dining": 20, 
+      "utility": 40, 
+      "education":100, 
+      "Personal Care":5, 
+      "Travel":0,
+      "date": "20-02-2020"
+    }
+  ]

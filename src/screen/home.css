@@ -1,0 +1,43 @@
+.Flex1{
+  flex: 1;
+}
+
+.Header{
+	background-color: #ff9b85;
+	text-align: center;
+}
+
+.Text20BlackBold{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.TabBlock{
+	width:90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.TabBlock1{
+	margin-top: 5%;
+}
+
+.TabelHead{
+	background-color:black;
+	color:white;
+}
+
+.FilterButton{
+	margin-bottom: 2%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.ColoredRow{
+	background-color: limegreen;
+}
+
+.ButtonAlign{
+	justify-content: space-between;
+	display: flex;
+}
