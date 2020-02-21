@@ -2,7 +2,6 @@ import React, { PureComponent } from 'react';
 import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
 
 const Chart = props => {
-	console.log('chart', props);
 	return (
 		<BarChart
 			width={800}

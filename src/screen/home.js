@@ -44,7 +44,6 @@ class Home extends React.Component {
   render(){
 		const {} = this.state;
 		const { dataFromApi, chartData, categoriesList } = this.props;
-		console.log(dataFromApi,'props');
     return (
 			<div className='Flex1' >
 				<div className="Header">
